@@ -1,0 +1,12 @@
+C:\Users\ziban\source\repos\JogoGalo\JogoGalo\obj\Debug\JogoGalo.csprojAssemblyReference.cache
+C:\Users\ziban\source\repos\JogoGalo\JogoGalo\obj\Debug\JogoGalo.Form1.resources
+C:\Users\ziban\source\repos\JogoGalo\JogoGalo\obj\Debug\JogoGalo.galo.resources
+C:\Users\ziban\source\repos\JogoGalo\JogoGalo\obj\Debug\JogoGalo.Properties.Resources.resources
+C:\Users\ziban\source\repos\JogoGalo\JogoGalo\obj\Debug\JogoGalo.csproj.GenerateResource.cache
+C:\Users\ziban\source\repos\JogoGalo\JogoGalo\obj\Debug\JogoGalo.csproj.CoreCompileInputs.cache
+C:\Users\ziban\source\repos\JogoGalo\JogoGalo\bin\Debug\JogoGalo.exe.config
+C:\Users\ziban\source\repos\JogoGalo\JogoGalo\bin\Debug\JogoGalo.exe
+C:\Users\ziban\source\repos\JogoGalo\JogoGalo\bin\Debug\JogoGalo.pdb
+C:\Users\ziban\source\repos\JogoGalo\JogoGalo\obj\Debug\JogoGalo.exe
+C:\Users\ziban\source\repos\JogoGalo\JogoGalo\obj\Debug\JogoGalo.pdb
+C:\Users\ziban\source\repos\JogoGalo\JogoGalo\obj\Debug\JogoGalo.Pontos.resources
